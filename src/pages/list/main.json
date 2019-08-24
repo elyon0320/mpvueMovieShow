@@ -1,0 +1,8 @@
+{
+    "backgroundTextStyle": "light",
+    
+    "navigationBarTitleText": "硅谷周刊",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark"
+}
